@@ -234,6 +234,7 @@ defaults:
     panel: FLP_Workflows
     values:
       - none
+      - ft0-ageing
       - ft0-digits-pipe
       - ft0-digits-pipe-ds-qc
       - ft0-digits-pipe-ds-qc-raw
